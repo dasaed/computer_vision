@@ -1,11 +1,10 @@
 ## Computer Vision Programs by Carlos Dasaed Salcedo
-
+This is a group of python scripts designed to analyze images. 
 
 The readme so far is the basic template offered by github, but I will update it as I begin to add more code. 
 
-You can use the [editor on GitHub](https://github.com/dasaed/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
