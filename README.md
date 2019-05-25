@@ -1,11 +1,19 @@
 ## Computer Vision Programs by Carlos Dasaed Salcedo
-
+This is a group of python scripts designed to analyze images. 
 
 The readme so far is the basic template offered by github, but I will update it as I begin to add more code. 
 
-You can use the [editor on GitHub](https://github.com/dasaed/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Installation Steps ie Requirements ###
+1. Python 3
+	apt install python3
+2. Pip
+	apt install python3-pip
+3. opencv-python
+	pip install opencv-python
+4. Other libraries
+	numpy - should be automatically installed with opencv 
+	pandas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
