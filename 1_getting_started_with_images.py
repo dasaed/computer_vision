@@ -64,5 +64,5 @@ k = cv2.waitKey(0) & 0xFF
 if k == 27:
     cv2.destroyAllWindows()
 elif k == ord('s'):
-    cv2.imwrite('./data2/baboon-copy', img2)
+    cv2.imwrite('./data2/baboon-copy.jpg', img2)
     cv2.destroyAllWindows()
