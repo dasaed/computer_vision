@@ -3,6 +3,7 @@ This is a group of python scripts designed to analyze images.
 
 The readme so far is the basic template offered by github, but I will update it as I begin to add more code. 
 
+<<<<<<< HEAD
 ### Installation Steps ie Requirements ###
 1. Python 3
 	apt install python3
@@ -14,6 +15,10 @@ The readme so far is the basic template offered by github, but I will update it 
 	numpy - should be automatically installed with opencv 
 	pandas
 
+=======
+
+
+>>>>>>> 91dd576e8b79b1c54c9c5c4974376f593d3c2469
 
 ### Markdown
 
