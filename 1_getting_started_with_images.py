@@ -51,9 +51,9 @@ k = cv2.waitKey(0) & 0xFF #This will wait for input from the key board
 # mandatory
 
 # And now an if to decide what to do when the 's' or 'esc' key is pressed
-if k == 27:
+if k == 27: # 27 =  the esc key
     cv2.destroyAllWindows()
-elif k== ord('s'):
+elif k == ord('s'):
     cv2.imwrite('./data2/baboon-copy', img2)
     cv2.destroyAllWindows()
 """)
@@ -63,6 +63,6 @@ cv2.imshow('The Baboo: Press "s" to save and exit, or "esc" to exit without savi
 k = cv2.waitKey(0) & 0xFF
 if k == 27:
     cv2.destroyAllWindows()
-elif k== ord('s'):
+elif k == ord('s'):
     cv2.imwrite('./data2/baboon-copy', img2)
     cv2.destroyAllWindows()

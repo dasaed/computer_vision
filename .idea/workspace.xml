@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7b18b3-c6c2-4dd1-b7b6-e631deb070b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data2/lena_copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_getting_started_with_videos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_getting_started_with_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_getting_started_with_images.py" afterDir="false" />
     </list>
@@ -13,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_getting_started_with_images.py">
+        <entry file="file://$PROJECT_DIR$/2_getting_started_with_videos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            <state relative-caret-position="30">
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -46,6 +46,7 @@
       <list>
         <option value="$PROJECT_DIR$/opencv_version.py" />
         <option value="$PROJECT_DIR$/1_getting_started_with_images.py" />
+        <option value="$PROJECT_DIR$/2_getting_started_with_videos.py" />
       </list>
     </option>
   </component>
@@ -128,9 +129,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1239" height="775" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24392289" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.248114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -169,8 +169,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_getting_started_with_images.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state relative-caret-position="288">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_getting_started_with_videos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
         </state>
       </provider>
     </entry>
