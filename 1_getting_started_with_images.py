@@ -1,4 +1,5 @@
 import cv2
+#https://www.youtube.com/watch?v=TGQcDaZ56ao
 
 print("Reading images using the OpenCV library")
 print("cv2.imread('image', flag)")
